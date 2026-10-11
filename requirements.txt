@@ -1,0 +1,10 @@
+streamlit>=1.50
+gradio>=6.0
+scikit-learn==1.8.0
+xgboost==3.4.1
+pandas
+numpy
+matplotlib
+seaborn
+joblib
+jinja2
